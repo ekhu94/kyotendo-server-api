@@ -12,11 +12,12 @@ def loadForums
 end
 
 def loadNintendoSwitchPosts
-    file = open('./db/db_nintendo_switch.json')
-    content = file.read
-    json = JSON.parse(content)
+    #* Discussion Posts
+    disc_file = open('./db/db_nintendo_switch_disc.json')
+    disc_content = file.read
+    disc_json = JSON.parse(content)
 
-    json.each{ |i|
+    disc_json.each{ |i|
         user_id = rand(User.first.id..User.last.id)
         forum = Forum.find_by(name: 'Nintendo Switch')
         Post.create(
@@ -30,11 +31,12 @@ def loadNintendoSwitchPosts
 end
 
 def loadZeldaPosts
-    file = open('./db/db_zelda.json')
-    content = file.read
-    json = JSON.parse(content)
+    #* Image Posts
+    img_file = open('./db/db_zelda_img.json')
+    img_content = file.read
+    img_json = JSON.parse(content)
 
-    json.each{ |i|
+    img_json.each{ |i|
         user_id = rand(User.first.id..User.last.id)
         forum = Forum.find_by(name: 'Zelda')
         Post.create(
@@ -48,11 +50,12 @@ def loadZeldaPosts
 end
 
 def loadMarioKartPosts
-    file = open('./db/db_mario_kart.json')
-    content = file.read
-    json = JSON.parse(content)
+    #* Image Posts
+    img_file = open('./db/db_mario_kart_img.json')
+    img_content = file.read
+    img_json = JSON.parse(content)
 
-    json.each{ |i|
+    img_json.each{ |i|
         user_id = rand(User.first.id..User.last.id)
         forum = Forum.find_by(name: 'Mario Kart')
         Post.create(
@@ -66,11 +69,12 @@ def loadMarioKartPosts
 end
 
 def loadPokemonPosts
-    file = open('./db/db_pokemon.json')
-    content = file.read
-    json = JSON.parse(content)
+    #* Image Posts
+    img_file = open('./db/db_pokemon_img.json')
+    img_content = file.read
+    img_json = JSON.parse(content)
 
-    json.each{ |i|
+    img_json.each{ |i|
         user_id = rand(User.first.id..User.last.id)
         forum = Forum.find_by(name: 'Pokemon')
         Post.create(
