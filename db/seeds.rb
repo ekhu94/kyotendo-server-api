@@ -3,7 +3,7 @@ Forum.destroy_all
 require 'json'
 
 def loadForums
-    forums = ['Nintendo Switch', 'Zelda', 'Mario Kart', 'Pokemon', 'Nintendo Music', 'Game Deals']
+    forums = ['Nintendo Switch', 'Zelda', 'Mario Kart', 'Pokemon', 'Game Deals']
     i = 0
     while i < 6
         Forum.create(name: forums[i])
@@ -65,7 +65,26 @@ def loadMarioKartPosts
     }
 end
 
+def loadPokemonPosts
+    file = open('./db/db_pokemon.json')
+    content = file.read
+    json = JSON.parse(content)
+
+    json.each{ |i|
+        user_id = rand(User.first.id..User.last.id)
+        forum = Forum.find_by(name: 'Pokemon')
+        Post.create(
+            title: i['data']['children'][0]['data']['title'],
+            content: nil,
+            img_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            user: User.find(user_id),
+            forum: forum
+        )
+    }
+end
+
 loadForums
 loadNintendoSwitchPosts
 loadZeldaPosts
 loadMarioKartPosts
+loadPokemonPosts
