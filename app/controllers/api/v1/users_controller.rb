@@ -12,10 +12,10 @@ class Api::V1::UsersController < ApplicationController
 
     def create
         #! sign-up action
-        user = User.create(user_params)
-        if user.valid?
-            token = encode_token({ user_id: user.id })
-            render json: { id: user.id, username: user.username, jwt: token }, status: :created
+        @user = User.create(user_params)
+        if @user.valid?
+            token = encode_token({ user_id: @user.id })
+            render json: { id: @user.id, username: @user.username, jwt: token }, status: :created
         else
             render json: { error: user.errors.full_messages }, status: :not_acceptable
         end
