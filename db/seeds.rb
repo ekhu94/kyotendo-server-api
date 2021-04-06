@@ -22,7 +22,7 @@ def loadNintendoSwitchPosts
         Post.create(
             title: i['data']['children'][0]['data']['title'],
             content: i['data']['children'][0]['data']['selftext'],
-            img_url: nil,
+            post_type: 'discussion',
             user: User.find(user_id),
             forum: forum
         )
@@ -39,8 +39,8 @@ def loadZeldaPosts
         forum = Forum.find_by(name: 'Zelda')
         Post.create(
             title: i['data']['children'][0]['data']['title'],
-            content: nil,
-            img_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            content: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            post_type: 'image',
             user: User.find(user_id),
             forum: forum
         )
@@ -57,8 +57,8 @@ def loadMarioKartPosts
         forum = Forum.find_by(name: 'Mario Kart')
         Post.create(
             title: i['data']['children'][0]['data']['title'],
-            content: nil,
-            img_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            content: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            post_type: 'image',
             user: User.find(user_id),
             forum: forum
         )
@@ -75,8 +75,8 @@ def loadPokemonPosts
         forum = Forum.find_by(name: 'Pokemon')
         Post.create(
             title: i['data']['children'][0]['data']['title'],
-            content: nil,
-            img_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            content: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            post_type: 'image',
             user: User.find(user_id),
             forum: forum
         )
