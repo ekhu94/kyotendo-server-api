@@ -7,6 +7,11 @@ class Api::V1::VideosController < ApplicationController
         render json: videos
     end
 
+    def show
+        video = Video.find_by(id: params[:id])
+        render json: video
+    end
+
     def create
         video = Video.create(video_params)
         render json: video

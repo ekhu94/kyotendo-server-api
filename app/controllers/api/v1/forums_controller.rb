@@ -7,6 +7,11 @@ class Api::V1::ForumsController < ApplicationController
         render json: forums
     end
 
+    def show
+        forum = Forum.find_by(id: params[:id])
+        render json: forum
+    end
+
     def create
         forum = Forum.create(forum_params)
         render json: forum
