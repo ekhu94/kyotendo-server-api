@@ -47,6 +47,25 @@ def loadZeldaPosts
     }
 end
 
+def loadMarioKartPosts
+    file = open('./db/db_mario_kart.json')
+    content = file.read
+    json = JSON.parse(content)
+
+    json.each{ |i|
+        user_id = rand(User.first.id..User.last.id)
+        forum = Forum.find_by(name: 'Mario Kart')
+        Post.create(
+            title: i['data']['children'][0]['data']['title'],
+            content: nil,
+            img_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            user: User.find(user_id),
+            forum: forum
+        )
+    }
+end
+
 loadForums
 loadNintendoSwitchPosts
 loadZeldaPosts
+loadMarioKartPosts
