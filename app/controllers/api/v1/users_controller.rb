@@ -15,7 +15,7 @@ class Api::V1::UsersController < ApplicationController
         user = User.create(user_params)
         if user.valid?
             token = encode_token({ user_id: user.id })
-            render json: { id: user.id, fullname: user.fullname, jwt: token }, status: :created
+            render json: { id: user.id, username: user.username, jwt: token }, status: :created
         else
             render json: { error: user.errors.full_messages }, status: :not_acceptable
         end
@@ -24,6 +24,6 @@ class Api::V1::UsersController < ApplicationController
     private
 
     def user_params
-        params.require(:user).permit(:fullname, :email_address, :avatar, :password, :password_confirmation)
+        params.require(:user).permit(:username, :email_address, :password, :password_confirmation)
     end
 end
