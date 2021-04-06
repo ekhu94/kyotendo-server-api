@@ -1,0 +1,20 @@
+class Api::V1::ForumsController < ApplicationController
+    #! skipping just for testing purposes, please delete after
+    skip_before_action :authorized
+
+    def index
+        games = Game.all
+        render json: games
+    end
+
+    def create
+        game = Game.create(game_params)
+        render json: game
+    end
+
+    private
+
+    def game_params
+        params.require(:games).permit(:name, :rating, :img_url, :release_date)
+    end
+end

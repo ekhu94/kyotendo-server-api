@@ -10,13 +10,22 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_04_05_230833) do
+ActiveRecord::Schema.define(version: 2021_04_06_053243) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "forums", force: :cascade do |t|
     t.string "name"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "games", force: :cascade do |t|
+    t.string "name"
+    t.integer "rating"
+    t.string "img_url"
+    t.date "release_date"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -41,6 +50,21 @@ ActiveRecord::Schema.define(version: 2021_04_05_230833) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  create_table "videos", force: :cascade do |t|
+    t.string "title"
+    t.string "description"
+    t.string "video_url"
+    t.integer "views"
+    t.bigint "user_id", null: false
+    t.bigint "game_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["game_id"], name: "index_videos_on_game_id"
+    t.index ["user_id"], name: "index_videos_on_user_id"
+  end
+
   add_foreign_key "posts", "forums"
   add_foreign_key "posts", "users"
+  add_foreign_key "videos", "games"
+  add_foreign_key "videos", "users"
 end
