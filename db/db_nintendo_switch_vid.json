@@ -1,0 +1,2392 @@
+[
+    {
+        "kind": "Listing",
+        "data": {
+        "modhash": "zcfmep3bpn59e2b7bc031886e70a2010dcd06e379b14f0d8cc",
+        "dist": 1,
+        "children": [
+        {
+        "kind": "t3",
+        "data": {
+        "approved_at_utc": null,
+        "subreddit": "NintendoSwitch",
+        "selftext": "",
+        "user_reports": [],
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Star Wars: Republic Commando | Nintendo Switch Frame Rate Test",
+        "link_flair_richtext": [
+        {
+        "e": "text",
+        "t": "Video"
+        }
+        ],
+        "subreddit_name_prefixed": "r/NintendoSwitch",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "video",
+        "downs": 0,
+        "thumbnail_height": 105,
+        "top_awarded_type": null,
+        "parent_whitelist_status": "all_ads",
+        "hide_score": false,
+        "name": "t3_mllrj5",
+        "quarantine": false,
+        "link_flair_text_color": "light",
+        "upvote_ratio": 0.88,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 54,
+        "total_awards_received": 0,
+        "media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/gPMVP3acvXw?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "height": 200
+        },
+        "thumbnail_width": 140,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "author_fullname": "t2_4ihyh",
+        "secure_media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "Star Wars: Republic Commando | Nintendo Switch Frame Rate Test",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/gPMVP3acvXw?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "ContraNetwork",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/gPMVP3acvXw/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/ContraNetworkHD"
+        },
+        "type": "youtube.com"
+        },
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/gPMVP3acvXw?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "media_domain_url": "https://www.redditmedia.com/mediaembed/mllrj5",
+        "height": 200
+        },
+        "link_flair_text": "Video",
+        "can_mod_post": false,
+        "score": 54,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://a.thumbs.redditmedia.com/uMo2Lxu4HUucP9HigmeURegLfU5T_HkZDhT55iLMvu0.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "rich:video",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1617772049,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "youtube.com",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.youtube.com/watch?v=gPMVP3acvXw",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": true,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+        "images": [
+        {
+        "source": {
+        "url": "https://external-preview.redd.it/VmFwc2-Pev7VTlCD2-UXQe2tP5kOSiHlP8iILEVrrn4.jpg?auto=webp&amp;s=92de831001c0d1fbc642996c699b0e8f1d1b69d8",
+        "width": 480,
+        "height": 360
+        },
+        "resolutions": [
+        {
+        "url": "https://external-preview.redd.it/VmFwc2-Pev7VTlCD2-UXQe2tP5kOSiHlP8iILEVrrn4.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=336ad23c2a088f9efa559d272e8ba32f425c95e5",
+        "width": 108,
+        "height": 81
+        },
+        {
+        "url": "https://external-preview.redd.it/VmFwc2-Pev7VTlCD2-UXQe2tP5kOSiHlP8iILEVrrn4.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=01574885765fd71761a2af9bffa04c1308345925",
+        "width": 216,
+        "height": 162
+        },
+        {
+        "url": "https://external-preview.redd.it/VmFwc2-Pev7VTlCD2-UXQe2tP5kOSiHlP8iILEVrrn4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f5323439db47790df933797c46cdb1aded77f11b",
+        "width": 320,
+        "height": 240
+        }
+        ],
+        "variants": {},
+        "id": "mpspGxtLih9pCgVZwFPjaEKlmlAmeqXQ14JIieymeL8"
+        }
+        ],
+        "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "a64aa430-985a-11e6-9740-0e00a029b1ba",
+        "can_gild": true,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_3h47q",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#e70012",
+        "id": "mllrj5",
+        "is_robot_indexable": true,
+        "num_duplicates": 0,
+        "report_reasons": null,
+        "author": "voneahhh",
+        "discussion_type": null,
+        "num_comments": 14,
+        "send_replies": false,
+        "media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "Star Wars: Republic Commando | Nintendo Switch Frame Rate Test",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/gPMVP3acvXw?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "ContraNetwork",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/gPMVP3acvXw/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/ContraNetworkHD"
+        },
+        "type": "youtube.com"
+        },
+        "contest_mode": false,
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/NintendoSwitch/comments/mllrj5/star_wars_republic_commando_nintendo_switch_frame/",
+        "whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=gPMVP3acvXw",
+        "subreddit_subscribers": 2962538,
+        "created_utc": 1617743249,
+        "num_crossposts": 0,
+        "mod_reports": [],
+        "is_video": false
+        }
+        }
+        ],
+        "after": null,
+        "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+        "modhash": "5nhervi4cda3907cd8be8b6e7e770732617674d4d161942da6",
+        "dist": 1,
+        "children": [
+        {
+        "kind": "t3",
+        "data": {
+        "approved_at_utc": null,
+        "subreddit": "NintendoSwitch",
+        "selftext": "",
+        "user_reports": [],
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "The Colonists - Console Trailer",
+        "link_flair_richtext": [
+        {
+        "e": "text",
+        "t": "Video"
+        }
+        ],
+        "subreddit_name_prefixed": "r/NintendoSwitch",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "video",
+        "downs": 0,
+        "thumbnail_height": 105,
+        "top_awarded_type": null,
+        "parent_whitelist_status": "all_ads",
+        "hide_score": false,
+        "name": "t3_mlp28k",
+        "quarantine": false,
+        "link_flair_text_color": "light",
+        "upvote_ratio": 0.82,
+        "author_flair_background_color": "transparent",
+        "subreddit_type": "public",
+        "ups": 23,
+        "total_awards_received": 0,
+        "media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/fuRCTfYFEWI?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "height": 200
+        },
+        "thumbnail_width": 140,
+        "author_flair_template_id": "2a360228-f53d-11e6-8780-0ecafa470a70",
+        "is_original_content": false,
+        "author_fullname": "t2_u5cmr",
+        "secure_media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "The Colonists Console Trailer | The Colonists Is Coming To Console May 4th!",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/fuRCTfYFEWI?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Auroch Digital",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/fuRCTfYFEWI/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/gamethenewsnet"
+        },
+        "type": "youtube.com"
+        },
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/fuRCTfYFEWI?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "media_domain_url": "https://www.redditmedia.com/mediaembed/mlp28k",
+        "height": 200
+        },
+        "link_flair_text": "Video",
+        "can_mod_post": false,
+        "score": 23,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/9HTqF0aE_kMk0sjPeJthorT2A1idyX0-6EwY_H_nxYQ.jpg",
+        "edited": false,
+        "author_flair_css_class": "usericon-inkling-marie",
+        "author_flair_richtext": [
+        {
+        "a": ":inkling-marie:",
+        "u": "https://emoji.redditmedia.com/rcu0f0x0g3941_t5_3h47q/inkling-marie",
+        "e": "emoji"
+        }
+        ],
+        "gildings": {},
+        "post_hint": "rich:video",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1617781173,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "youtube.com",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.youtube.com/watch?v=fuRCTfYFEWI",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": true,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+        "images": [
+        {
+        "source": {
+        "url": "https://external-preview.redd.it/N0E9DnX2RYmJ6LFkdN66gaQnhAOsYGUO8K8TuCGAdWc.jpg?auto=webp&amp;s=ee528b67ff039eebdf64b62203dfdc2b56faf44d",
+        "width": 480,
+        "height": 360
+        },
+        "resolutions": [
+        {
+        "url": "https://external-preview.redd.it/N0E9DnX2RYmJ6LFkdN66gaQnhAOsYGUO8K8TuCGAdWc.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=978bc3c0f235c89ccb379eabfd6aa60ab268733e",
+        "width": 108,
+        "height": 81
+        },
+        {
+        "url": "https://external-preview.redd.it/N0E9DnX2RYmJ6LFkdN66gaQnhAOsYGUO8K8TuCGAdWc.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ff7d91468ec56b0c7237bc4fbff9b5ebd3f74446",
+        "width": 216,
+        "height": 162
+        },
+        {
+        "url": "https://external-preview.redd.it/N0E9DnX2RYmJ6LFkdN66gaQnhAOsYGUO8K8TuCGAdWc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=75ea5c8932795743a6ac3f07d5cfde9bf543cb96",
+        "width": 320,
+        "height": 240
+        }
+        ],
+        "variants": {},
+        "id": "MUAB4SQ43vD8R0bTvcsj1XQo-8xafoCQhj2TyNSe7Jw"
+        }
+        ],
+        "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "a64aa430-985a-11e6-9740-0e00a029b1ba",
+        "can_gild": true,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":inkling-marie:",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_3h47q",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#e70012",
+        "id": "mlp28k",
+        "is_robot_indexable": true,
+        "num_duplicates": 0,
+        "report_reasons": null,
+        "author": "Riomegon",
+        "discussion_type": null,
+        "num_comments": 7,
+        "send_replies": false,
+        "media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "The Colonists Console Trailer | The Colonists Is Coming To Console May 4th!",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/fuRCTfYFEWI?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Auroch Digital",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/fuRCTfYFEWI/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/gamethenewsnet"
+        },
+        "type": "youtube.com"
+        },
+        "contest_mode": false,
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/NintendoSwitch/comments/mlp28k/the_colonists_console_trailer/",
+        "whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=fuRCTfYFEWI",
+        "subreddit_subscribers": 2962541,
+        "created_utc": 1617752373,
+        "num_crossposts": 0,
+        "mod_reports": [],
+        "is_video": false
+        }
+        }
+        ],
+        "after": null,
+        "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+        "modhash": "nxf0i078paf0439568f346299832f1ccf724bbdf59aa246904",
+        "dist": 1,
+        "children": [
+        {
+        "kind": "t3",
+        "data": {
+        "approved_at_utc": null,
+        "subreddit": "NintendoSwitch",
+        "selftext": "",
+        "user_reports": [],
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Warhammer: Age of Sigmar - Storm Ground - Release Date Reveal Trailer",
+        "link_flair_richtext": [
+        {
+        "e": "text",
+        "t": "Video"
+        }
+        ],
+        "subreddit_name_prefixed": "r/NintendoSwitch",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "video",
+        "downs": 0,
+        "thumbnail_height": 105,
+        "top_awarded_type": null,
+        "parent_whitelist_status": "all_ads",
+        "hide_score": false,
+        "name": "t3_mlp1d7",
+        "quarantine": false,
+        "link_flair_text_color": "light",
+        "upvote_ratio": 0.72,
+        "author_flair_background_color": "transparent",
+        "subreddit_type": "public",
+        "ups": 6,
+        "total_awards_received": 0,
+        "media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/L4BbbzH3JDQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "height": 200
+        },
+        "thumbnail_width": 140,
+        "author_flair_template_id": "2a360228-f53d-11e6-8780-0ecafa470a70",
+        "is_original_content": false,
+        "author_fullname": "t2_u5cmr",
+        "secure_media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "Warhammer: Age of Sigmar - Storm Ground - Release Date Reveal Trailer",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/L4BbbzH3JDQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Focus Home Interactive",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/L4BbbzH3JDQ/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/focusinteractive"
+        },
+        "type": "youtube.com"
+        },
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/L4BbbzH3JDQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "media_domain_url": "https://www.redditmedia.com/mediaembed/mlp1d7",
+        "height": 200
+        },
+        "link_flair_text": "Video",
+        "can_mod_post": false,
+        "score": 6,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/pE5W1emTgSsWNCM2wv0H_6alla0hS_WK-nibAGU_otY.jpg",
+        "edited": false,
+        "author_flair_css_class": "usericon-inkling-marie",
+        "author_flair_richtext": [
+        {
+        "a": ":inkling-marie:",
+        "u": "https://emoji.redditmedia.com/rcu0f0x0g3941_t5_3h47q/inkling-marie",
+        "e": "emoji"
+        }
+        ],
+        "gildings": {},
+        "post_hint": "rich:video",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1617781093,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "youtube.com",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.youtube.com/watch?v=L4BbbzH3JDQ",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": true,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+        "images": [
+        {
+        "source": {
+        "url": "https://external-preview.redd.it/HoIzrDlf2n1MBUt0qH1CfWFrcKsnMagjGX9TDWIoJlU.jpg?auto=webp&amp;s=5048097f1aac61bdd93841260abeb41391081637",
+        "width": 480,
+        "height": 360
+        },
+        "resolutions": [
+        {
+        "url": "https://external-preview.redd.it/HoIzrDlf2n1MBUt0qH1CfWFrcKsnMagjGX9TDWIoJlU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=485e27058bbe2519b2c66bfaac5f2a54ab82e39e",
+        "width": 108,
+        "height": 81
+        },
+        {
+        "url": "https://external-preview.redd.it/HoIzrDlf2n1MBUt0qH1CfWFrcKsnMagjGX9TDWIoJlU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b0ae83f222a682b978eb9ba403e7c046c267c880",
+        "width": 216,
+        "height": 162
+        },
+        {
+        "url": "https://external-preview.redd.it/HoIzrDlf2n1MBUt0qH1CfWFrcKsnMagjGX9TDWIoJlU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b04dff6a523fd4e7312c71de43499fa44edcdd47",
+        "width": 320,
+        "height": 240
+        }
+        ],
+        "variants": {},
+        "id": "82RD4HiC88Jm8CtMExykG-jmO25kwDDtBdg6skzlS_k"
+        }
+        ],
+        "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "a64aa430-985a-11e6-9740-0e00a029b1ba",
+        "can_gild": true,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":inkling-marie:",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_3h47q",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#e70012",
+        "id": "mlp1d7",
+        "is_robot_indexable": true,
+        "num_duplicates": 1,
+        "report_reasons": null,
+        "author": "Riomegon",
+        "discussion_type": null,
+        "num_comments": 8,
+        "send_replies": false,
+        "media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "Warhammer: Age of Sigmar - Storm Ground - Release Date Reveal Trailer",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/L4BbbzH3JDQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Focus Home Interactive",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/L4BbbzH3JDQ/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/focusinteractive"
+        },
+        "type": "youtube.com"
+        },
+        "contest_mode": false,
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/NintendoSwitch/comments/mlp1d7/warhammer_age_of_sigmar_storm_ground_release_date/",
+        "whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=L4BbbzH3JDQ",
+        "subreddit_subscribers": 2962541,
+        "created_utc": 1617752293,
+        "num_crossposts": 0,
+        "mod_reports": [],
+        "is_video": false
+        }
+        }
+        ],
+        "after": null,
+        "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+        "modhash": "r4l2g0fc0s3baf36be79a80fc7a6a7eff73c96223f4a96c93b",
+        "dist": 1,
+        "children": [
+        {
+        "kind": "t3",
+        "data": {
+        "approved_at_utc": null,
+        "subreddit": "NintendoSwitch",
+        "selftext": "",
+        "user_reports": [],
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "65 Subtle Differences between Super Mario 3D World for Switch and Wii U",
+        "link_flair_richtext": [
+        {
+        "e": "text",
+        "t": "Video"
+        }
+        ],
+        "subreddit_name_prefixed": "r/NintendoSwitch",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "video",
+        "downs": 0,
+        "thumbnail_height": 105,
+        "top_awarded_type": null,
+        "parent_whitelist_status": "all_ads",
+        "hide_score": false,
+        "name": "t3_mjjx51",
+        "quarantine": false,
+        "link_flair_text_color": "light",
+        "upvote_ratio": 0.83,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 85,
+        "total_awards_received": 1,
+        "media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/-ZX3N80u9w0?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "height": 200
+        },
+        "thumbnail_width": 140,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "author_fullname": "t2_agmzi2g5",
+        "secure_media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "65 Subtle Differences between Super Mario 3D World for Switch and Wii U",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/-ZX3N80u9w0?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Looygi Bros.",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/-ZX3N80u9w0/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/LooygiBros"
+        },
+        "type": "youtube.com"
+        },
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/-ZX3N80u9w0?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "media_domain_url": "https://www.redditmedia.com/mediaembed/mjjx51",
+        "height": 200
+        },
+        "link_flair_text": "Video",
+        "can_mod_post": false,
+        "score": 85,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://a.thumbs.redditmedia.com/t6ercf6aD0QvuxxfeQDJt4zDP2mmMj0FiGzMzXsvnM0.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "rich:video",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1617521105,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "youtube.com",
+        "allow_live_comments": true,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.youtube.com/watch?v=-ZX3N80u9w0",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": true,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+        "images": [
+        {
+        "source": {
+        "url": "https://external-preview.redd.it/3QaG1SpRWGZslHlHBE8Hrh7XxNvK605vY6lRdlJalmA.jpg?auto=webp&amp;s=9146618ce3c506a154f5e82edd287cb8a48c3815",
+        "width": 480,
+        "height": 360
+        },
+        "resolutions": [
+        {
+        "url": "https://external-preview.redd.it/3QaG1SpRWGZslHlHBE8Hrh7XxNvK605vY6lRdlJalmA.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=01123d42f1166ab219201b1c258927b62f05e3ac",
+        "width": 108,
+        "height": 81
+        },
+        {
+        "url": "https://external-preview.redd.it/3QaG1SpRWGZslHlHBE8Hrh7XxNvK605vY6lRdlJalmA.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0a0adfc102290a94c6c43f37036ebade15d6fa2b",
+        "width": 216,
+        "height": 162
+        },
+        {
+        "url": "https://external-preview.redd.it/3QaG1SpRWGZslHlHBE8Hrh7XxNvK605vY6lRdlJalmA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5301df1903798738a4dc183cd35a8482d743d812",
+        "width": 320,
+        "height": 240
+        }
+        ],
+        "variants": {},
+        "id": "uBFhsS12HpsYhlcHGB5SQzUM9Borlt8x3CFAktqGt2A"
+        }
+        ],
+        "enabled": false
+        },
+        "all_awardings": [
+        {
+        "giver_coin_reward": null,
+        "subreddit_id": null,
+        "is_new": false,
+        "days_of_drip_extension": 0,
+        "coin_price": 150,
+        "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+        "penny_donate": null,
+        "coin_reward": 0,
+        "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+        "days_of_premium": 0,
+        "icon_height": 2048,
+        "tiers_by_required_awardings": null,
+        "resized_icons": [
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_width": 2048,
+        "static_icon_width": 2048,
+        "start_date": null,
+        "is_enabled": true,
+        "awardings_required_to_grant_benefits": null,
+        "description": "Thank you stranger. Shows the award.",
+        "end_date": null,
+        "subreddit_coin_reward": 0,
+        "count": 1,
+        "static_icon_height": 2048,
+        "name": "Helpful",
+        "resized_static_icons": [
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_format": null,
+        "award_sub_type": "GLOBAL",
+        "penny_price": null,
+        "award_type": "global",
+        "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png"
+        }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "a64aa430-985a-11e6-9740-0e00a029b1ba",
+        "can_gild": true,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_3h47q",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#e70012",
+        "id": "mjjx51",
+        "is_robot_indexable": true,
+        "num_duplicates": 0,
+        "report_reasons": null,
+        "author": "hadojedi",
+        "discussion_type": null,
+        "num_comments": 16,
+        "send_replies": true,
+        "media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "65 Subtle Differences between Super Mario 3D World for Switch and Wii U",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/-ZX3N80u9w0?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Looygi Bros.",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/-ZX3N80u9w0/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/LooygiBros"
+        },
+        "type": "youtube.com"
+        },
+        "contest_mode": false,
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/NintendoSwitch/comments/mjjx51/65_subtle_differences_between_super_mario_3d/",
+        "whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=-ZX3N80u9w0",
+        "subreddit_subscribers": 2962543,
+        "created_utc": 1617492305,
+        "num_crossposts": 0,
+        "mod_reports": [],
+        "is_video": false
+        }
+        }
+        ],
+        "after": null,
+        "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+        "modhash": "fs6rj50vn868e9a23faefca08c7db98247466437390d79667a",
+        "dist": 1,
+        "children": [
+        {
+        "kind": "t3",
+        "data": {
+        "approved_at_utc": null,
+        "subreddit": "NintendoSwitch",
+        "selftext": "",
+        "user_reports": [],
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "COGEN: Sword of Rewind - New Gameplay Trailer",
+        "link_flair_richtext": [
+        {
+        "e": "text",
+        "t": "Video"
+        }
+        ],
+        "subreddit_name_prefixed": "r/NintendoSwitch",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "video",
+        "downs": 0,
+        "thumbnail_height": 105,
+        "top_awarded_type": null,
+        "parent_whitelist_status": "all_ads",
+        "hide_score": false,
+        "name": "t3_mim1e4",
+        "quarantine": false,
+        "link_flair_text_color": "light",
+        "upvote_ratio": 0.83,
+        "author_flair_background_color": "transparent",
+        "subreddit_type": "public",
+        "ups": 38,
+        "total_awards_received": 0,
+        "media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/I2lTn_bUNYM?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "height": 200
+        },
+        "thumbnail_width": 140,
+        "author_flair_template_id": "2a360228-f53d-11e6-8780-0ecafa470a70",
+        "is_original_content": false,
+        "author_fullname": "t2_u5cmr",
+        "secure_media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "【公式】COGEN: 大鳥こはくと刻の剣 PV 第二弾",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/I2lTn_bUNYM?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Gemdrops / ジェムドロップ",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/I2lTn_bUNYM/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/GemdropsInc"
+        },
+        "type": "youtube.com"
+        },
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/I2lTn_bUNYM?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "media_domain_url": "https://www.redditmedia.com/mediaembed/mim1e4",
+        "height": 200
+        },
+        "link_flair_text": "Video",
+        "can_mod_post": false,
+        "score": 38,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/6Lronx52nTaSbYuqcNopsfQ4Xvjr0EEUbrWCFPEJrKs.jpg",
+        "edited": false,
+        "author_flair_css_class": "usericon-inkling-marie",
+        "author_flair_richtext": [
+        {
+        "a": ":inkling-marie:",
+        "u": "https://emoji.redditmedia.com/rcu0f0x0g3941_t5_3h47q/inkling-marie",
+        "e": "emoji"
+        }
+        ],
+        "gildings": {},
+        "post_hint": "rich:video",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1617404254,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "youtube.com",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.youtube.com/watch?v=I2lTn_bUNYM",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": true,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+        "images": [
+        {
+        "source": {
+        "url": "https://external-preview.redd.it/WHHrEn6sjVQFPUNpvcMYhOs2dy_F-zyIYf_2oUbw9qw.jpg?auto=webp&amp;s=6ccc9e388e1dc8dc50d12362dd57e0b57f965d28",
+        "width": 480,
+        "height": 360
+        },
+        "resolutions": [
+        {
+        "url": "https://external-preview.redd.it/WHHrEn6sjVQFPUNpvcMYhOs2dy_F-zyIYf_2oUbw9qw.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=6cf695bbfe06bdcf877b9b5ef67fc301ae9f6390",
+        "width": 108,
+        "height": 81
+        },
+        {
+        "url": "https://external-preview.redd.it/WHHrEn6sjVQFPUNpvcMYhOs2dy_F-zyIYf_2oUbw9qw.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c37e49ddae1d6e170bdad8941dfe65daa134d289",
+        "width": 216,
+        "height": 162
+        },
+        {
+        "url": "https://external-preview.redd.it/WHHrEn6sjVQFPUNpvcMYhOs2dy_F-zyIYf_2oUbw9qw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8234e5b41108e9ec8c42b76f59a7813816661301",
+        "width": 320,
+        "height": 240
+        }
+        ],
+        "variants": {},
+        "id": "URqCn0WycYk4dYB8--qC8XDYtuFkdy7DSpmcQAhSsM4"
+        }
+        ],
+        "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "a64aa430-985a-11e6-9740-0e00a029b1ba",
+        "can_gild": true,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":inkling-marie:",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_3h47q",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#e70012",
+        "id": "mim1e4",
+        "is_robot_indexable": true,
+        "num_duplicates": 1,
+        "report_reasons": null,
+        "author": "Riomegon",
+        "discussion_type": null,
+        "num_comments": 18,
+        "send_replies": false,
+        "media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "【公式】COGEN: 大鳥こはくと刻の剣 PV 第二弾",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/I2lTn_bUNYM?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Gemdrops / ジェムドロップ",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/I2lTn_bUNYM/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/GemdropsInc"
+        },
+        "type": "youtube.com"
+        },
+        "contest_mode": false,
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/NintendoSwitch/comments/mim1e4/cogen_sword_of_rewind_new_gameplay_trailer/",
+        "whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=I2lTn_bUNYM",
+        "subreddit_subscribers": 2962544,
+        "created_utc": 1617375454,
+        "num_crossposts": 0,
+        "mod_reports": [],
+        "is_video": false
+        }
+        }
+        ],
+        "after": null,
+        "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+        "modhash": "0469hqyzq2fd3e56d76d869f187e074b5e35b157f14ad20043",
+        "dist": 1,
+        "children": [
+        {
+        "kind": "t3",
+        "data": {
+        "approved_at_utc": null,
+        "subreddit": "NintendoSwitch",
+        "selftext": "",
+        "user_reports": [],
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Secret Neighbor - PlayStation, Switch &amp; iOS Announcement",
+        "link_flair_richtext": [
+        {
+        "e": "text",
+        "t": "Video"
+        }
+        ],
+        "subreddit_name_prefixed": "r/NintendoSwitch",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "video",
+        "downs": 0,
+        "thumbnail_height": 105,
+        "top_awarded_type": null,
+        "parent_whitelist_status": "all_ads",
+        "hide_score": false,
+        "name": "t3_me2z0q",
+        "quarantine": false,
+        "link_flair_text_color": "light",
+        "upvote_ratio": 0.53,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 2,
+        "total_awards_received": 0,
+        "media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/U15Exz1tW3c?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "height": 200
+        },
+        "thumbnail_width": 140,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "author_fullname": "t2_ap6p1",
+        "secure_media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "Secret Neighbor - PlayStation, Switch &amp; iOS Announcement",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/U15Exz1tW3c?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "tinyBuildGAMES",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/U15Exz1tW3c/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/tinyBuildGAMES"
+        },
+        "type": "youtube.com"
+        },
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/U15Exz1tW3c?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "media_domain_url": "https://www.redditmedia.com/mediaembed/me2z0q",
+        "height": 200
+        },
+        "link_flair_text": "Video",
+        "can_mod_post": false,
+        "score": 2,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://a.thumbs.redditmedia.com/aOGhdKSqqkiwcN_-uZEAM-g8EtDp99mh2fzySqT0PI4.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "rich:video",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1616835307,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "youtube.com",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.youtube.com/watch?v=U15Exz1tW3c",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": true,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+        "images": [
+        {
+        "source": {
+        "url": "https://external-preview.redd.it/l5K5u885BHsLxuegCNsHNTjnsmPH4k3Mi09NwcGw6i8.jpg?auto=webp&amp;s=2d8033d2630897d20a53e33b2d320d35907521e8",
+        "width": 480,
+        "height": 360
+        },
+        "resolutions": [
+        {
+        "url": "https://external-preview.redd.it/l5K5u885BHsLxuegCNsHNTjnsmPH4k3Mi09NwcGw6i8.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=10ccbbb44183f5034d5f189011296761db633207",
+        "width": 108,
+        "height": 81
+        },
+        {
+        "url": "https://external-preview.redd.it/l5K5u885BHsLxuegCNsHNTjnsmPH4k3Mi09NwcGw6i8.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=078e5f192c201243fbb475dfd9e6c00b5c67007c",
+        "width": 216,
+        "height": 162
+        },
+        {
+        "url": "https://external-preview.redd.it/l5K5u885BHsLxuegCNsHNTjnsmPH4k3Mi09NwcGw6i8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6debf3ad35f50e4f19a5f34e42b10d56c5a54bbc",
+        "width": 320,
+        "height": 240
+        }
+        ],
+        "variants": {},
+        "id": "8YGoJ8O800okuoqJXRyBuubPQ_Lz8dyJu0HM4G2HKRs"
+        }
+        ],
+        "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "a64aa430-985a-11e6-9740-0e00a029b1ba",
+        "can_gild": true,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_3h47q",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#e70012",
+        "id": "me2z0q",
+        "is_robot_indexable": true,
+        "num_duplicates": 0,
+        "report_reasons": null,
+        "author": "NotSoG",
+        "discussion_type": null,
+        "num_comments": 2,
+        "send_replies": false,
+        "media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "Secret Neighbor - PlayStation, Switch &amp; iOS Announcement",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/U15Exz1tW3c?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "tinyBuildGAMES",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/U15Exz1tW3c/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/tinyBuildGAMES"
+        },
+        "type": "youtube.com"
+        },
+        "contest_mode": false,
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/NintendoSwitch/comments/me2z0q/secret_neighbor_playstation_switch_ios/",
+        "whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=U15Exz1tW3c",
+        "subreddit_subscribers": 2962545,
+        "created_utc": 1616806507,
+        "num_crossposts": 0,
+        "mod_reports": [],
+        "is_video": false
+        }
+        }
+        ],
+        "after": null,
+        "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+        "modhash": "hbccsooymsb41942d98213d16abe88066718bc5ca6c5018b87",
+        "dist": 1,
+        "children": [
+        {
+        "kind": "t3",
+        "data": {
+        "approved_at_utc": null,
+        "subreddit": "NintendoSwitch",
+        "selftext": "",
+        "user_reports": [],
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Playtonic Friends Presents: Demon Turf",
+        "link_flair_richtext": [
+        {
+        "e": "text",
+        "t": "Video"
+        }
+        ],
+        "subreddit_name_prefixed": "r/NintendoSwitch",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "video",
+        "downs": 0,
+        "thumbnail_height": 105,
+        "top_awarded_type": null,
+        "parent_whitelist_status": "all_ads",
+        "hide_score": false,
+        "name": "t3_mdvme4",
+        "quarantine": false,
+        "link_flair_text_color": "light",
+        "upvote_ratio": 0.79,
+        "author_flair_background_color": "transparent",
+        "subreddit_type": "public",
+        "ups": 39,
+        "total_awards_received": 0,
+        "media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/ZR2KcRMxWyM?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "height": 200
+        },
+        "thumbnail_width": 140,
+        "author_flair_template_id": "871606e2-f53c-11e6-a247-0e3632cb7df8",
+        "is_original_content": false,
+        "author_fullname": "t2_15maj3",
+        "secure_media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "Playtonic Friends Presents: Demon Turf",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/ZR2KcRMxWyM?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Playtonic Games",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZR2KcRMxWyM/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/PlaytonicGamesltd"
+        },
+        "type": "youtube.com"
+        },
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/ZR2KcRMxWyM?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "media_domain_url": "https://www.redditmedia.com/mediaembed/mdvme4",
+        "height": 200
+        },
+        "link_flair_text": "Video",
+        "can_mod_post": false,
+        "score": 39,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/hoPTA49hH8akCG1mInTyfvWP_J-ibFDB-4zJABfU4YQ.jpg",
+        "edited": false,
+        "author_flair_css_class": "usericon-donkeykong-circle",
+        "author_flair_richtext": [
+        {
+        "a": ":donkeykong-circle:",
+        "u": "https://emoji.redditmedia.com/f1mxmr80g3941_t5_3h47q/donkeykong-circle",
+        "e": "emoji"
+        }
+        ],
+        "gildings": {},
+        "post_hint": "rich:video",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1616813646,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "youtube.com",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.youtube.com/watch?v=ZR2KcRMxWyM",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": true,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+        "images": [
+        {
+        "source": {
+        "url": "https://external-preview.redd.it/F_i8-zDKgovjgUsC19EoYRgGRtg3l4wSYtDh5hAnXDY.jpg?auto=webp&amp;s=948dd794c2ca62d362f9500af6729a9aa298abeb",
+        "width": 480,
+        "height": 360
+        },
+        "resolutions": [
+        {
+        "url": "https://external-preview.redd.it/F_i8-zDKgovjgUsC19EoYRgGRtg3l4wSYtDh5hAnXDY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=dafad6e43d745ee26e06de3f4a86f1ceef1adc75",
+        "width": 108,
+        "height": 81
+        },
+        {
+        "url": "https://external-preview.redd.it/F_i8-zDKgovjgUsC19EoYRgGRtg3l4wSYtDh5hAnXDY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=636108bfe0ab59ba1faf765d47d73ef9a7961df2",
+        "width": 216,
+        "height": 162
+        },
+        {
+        "url": "https://external-preview.redd.it/F_i8-zDKgovjgUsC19EoYRgGRtg3l4wSYtDh5hAnXDY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d15f546abc9ca7a31a2b36b1acb349d7abc67356",
+        "width": 320,
+        "height": 240
+        }
+        ],
+        "variants": {},
+        "id": "xltjHFRpnCyAumJPofkg2Hd0JJUytS3QhPsvc7ocw64"
+        }
+        ],
+        "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "a64aa430-985a-11e6-9740-0e00a029b1ba",
+        "can_gild": true,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":donkeykong-circle:",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_3h47q",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#e70012",
+        "id": "mdvme4",
+        "is_robot_indexable": true,
+        "num_duplicates": 0,
+        "report_reasons": null,
+        "author": "stealthyfrog",
+        "discussion_type": null,
+        "num_comments": 33,
+        "send_replies": false,
+        "media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "Playtonic Friends Presents: Demon Turf",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/ZR2KcRMxWyM?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Playtonic Games",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZR2KcRMxWyM/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/PlaytonicGamesltd"
+        },
+        "type": "youtube.com"
+        },
+        "contest_mode": false,
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/NintendoSwitch/comments/mdvme4/playtonic_friends_presents_demon_turf/",
+        "whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=ZR2KcRMxWyM",
+        "subreddit_subscribers": 2962548,
+        "created_utc": 1616784846,
+        "num_crossposts": 0,
+        "mod_reports": [],
+        "is_video": false
+        }
+        }
+        ],
+        "after": null,
+        "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+        "modhash": "8ve7dy465a24dda126a9f4ebe03cedcde1010e5f3fbeb8b5aa",
+        "dist": 1,
+        "children": [
+        {
+        "kind": "t3",
+        "data": {
+        "approved_at_utc": null,
+        "subreddit": "NintendoSwitch",
+        "selftext": "",
+        "user_reports": [],
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Axiom Verge 2 Gameplay + Developer Presentation - Future Games Show Spring Showcase",
+        "link_flair_richtext": [
+        {
+        "e": "text",
+        "t": "Video"
+        }
+        ],
+        "subreddit_name_prefixed": "r/NintendoSwitch",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "video",
+        "downs": 0,
+        "thumbnail_height": 105,
+        "top_awarded_type": null,
+        "parent_whitelist_status": "all_ads",
+        "hide_score": false,
+        "name": "t3_mda3lt",
+        "quarantine": false,
+        "link_flair_text_color": "light",
+        "upvote_ratio": 0.93,
+        "author_flair_background_color": "transparent",
+        "subreddit_type": "public",
+        "ups": 151,
+        "total_awards_received": 0,
+        "media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/52cISRlXKp4?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "height": 200
+        },
+        "thumbnail_width": 140,
+        "author_flair_template_id": "871606e2-f53c-11e6-a247-0e3632cb7df8",
+        "is_original_content": false,
+        "author_fullname": "t2_15maj3",
+        "secure_media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "Axiom Verge 2 Gameplay + Developer Presentation - Future Games Show Spring Showcase",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/52cISRlXKp4?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "GamesRadar",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/52cISRlXKp4/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/user/GamesRadar"
+        },
+        "type": "youtube.com"
+        },
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/52cISRlXKp4?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "media_domain_url": "https://www.redditmedia.com/mediaembed/mda3lt",
+        "height": 200
+        },
+        "link_flair_text": "Video",
+        "can_mod_post": false,
+        "score": 151,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://a.thumbs.redditmedia.com/isDlRfDZUscXKiewNW8SHgTzW9JRITDljfeElrjjrE8.jpg",
+        "edited": false,
+        "author_flair_css_class": "usericon-donkeykong-circle",
+        "author_flair_richtext": [
+        {
+        "a": ":donkeykong-circle:",
+        "u": "https://emoji.redditmedia.com/f1mxmr80g3941_t5_3h47q/donkeykong-circle",
+        "e": "emoji"
+        }
+        ],
+        "gildings": {},
+        "post_hint": "rich:video",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1616739904,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "youtube.com",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.youtube.com/watch?v=52cISRlXKp4&amp;feature=youtu.be",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": true,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+        "images": [
+        {
+        "source": {
+        "url": "https://external-preview.redd.it/jXckSXcXsRvpMrP5P64Rite18fyK8pVdlf0426CT1ws.jpg?auto=webp&amp;s=530e728e1eac414a371c6065bad9739c6f1a275f",
+        "width": 480,
+        "height": 360
+        },
+        "resolutions": [
+        {
+        "url": "https://external-preview.redd.it/jXckSXcXsRvpMrP5P64Rite18fyK8pVdlf0426CT1ws.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ee04ca43fd9c5cebd8c75eb8011ef8ef400ff36c",
+        "width": 108,
+        "height": 81
+        },
+        {
+        "url": "https://external-preview.redd.it/jXckSXcXsRvpMrP5P64Rite18fyK8pVdlf0426CT1ws.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b93bda05965a6e85f3dc39ffc4b848c0e349d8dd",
+        "width": 216,
+        "height": 162
+        },
+        {
+        "url": "https://external-preview.redd.it/jXckSXcXsRvpMrP5P64Rite18fyK8pVdlf0426CT1ws.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6348a0cc361434cc67d4a593779657c264bda625",
+        "width": 320,
+        "height": 240
+        }
+        ],
+        "variants": {},
+        "id": "GlI4bbMVpO78DR0sLvDJD8GGH56zAH_hfarIMQlyqik"
+        }
+        ],
+        "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "a64aa430-985a-11e6-9740-0e00a029b1ba",
+        "can_gild": true,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":donkeykong-circle:",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_3h47q",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#e70012",
+        "id": "mda3lt",
+        "is_robot_indexable": true,
+        "num_duplicates": 0,
+        "report_reasons": null,
+        "author": "stealthyfrog",
+        "discussion_type": null,
+        "num_comments": 22,
+        "send_replies": false,
+        "media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "Axiom Verge 2 Gameplay + Developer Presentation - Future Games Show Spring Showcase",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/52cISRlXKp4?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "GamesRadar",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/52cISRlXKp4/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/user/GamesRadar"
+        },
+        "type": "youtube.com"
+        },
+        "contest_mode": false,
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/NintendoSwitch/comments/mda3lt/axiom_verge_2_gameplay_developer_presentation/",
+        "whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=52cISRlXKp4&amp;feature=youtu.be",
+        "subreddit_subscribers": 2962552,
+        "created_utc": 1616711104,
+        "num_crossposts": 0,
+        "mod_reports": [],
+        "is_video": false
+        }
+        }
+        ],
+        "after": null,
+        "before": null
+        }
+    },
+    {
+        "kind": "Listing",
+        "data": {
+        "modhash": "4d4umvlj3r82f75ab46f0ef988c61be6d5be38226ab1e3b519",
+        "dist": 1,
+        "children": [
+        {
+        "kind": "t3",
+        "data": {
+        "approved_at_utc": null,
+        "subreddit": "NintendoSwitch",
+        "selftext": "",
+        "user_reports": [],
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "New Pokémon Snap – New Gameplay Today",
+        "link_flair_richtext": [
+        {
+        "e": "text",
+        "t": "Video"
+        }
+        ],
+        "subreddit_name_prefixed": "r/NintendoSwitch",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "video",
+        "downs": 0,
+        "thumbnail_height": 105,
+        "top_awarded_type": null,
+        "parent_whitelist_status": "all_ads",
+        "hide_score": false,
+        "name": "t3_mc6fgd",
+        "quarantine": false,
+        "link_flair_text_color": "light",
+        "upvote_ratio": 0.95,
+        "author_flair_background_color": "transparent",
+        "subreddit_type": "public",
+        "ups": 9746,
+        "total_awards_received": 22,
+        "media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/zj1zWrqjbIA?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "height": 200
+        },
+        "thumbnail_width": 140,
+        "author_flair_template_id": "a9931b42-f53c-11e6-80f9-0e8c2bce4b82",
+        "is_original_content": false,
+        "author_fullname": "t2_t27vp",
+        "secure_media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "New Pokémon Snap – New Gameplay Today",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/zj1zWrqjbIA?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Game Informer",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/zj1zWrqjbIA/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/gameinformer"
+        },
+        "type": "youtube.com"
+        },
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {
+        "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/zj1zWrqjbIA?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 356,
+        "scrolling": false,
+        "media_domain_url": "https://www.redditmedia.com/mediaembed/mc6fgd",
+        "height": 200
+        },
+        "link_flair_text": "Video",
+        "can_mod_post": false,
+        "score": 9746,
+        "approved_by": null,
+        "author_premium": true,
+        "thumbnail": "https://b.thumbs.redditmedia.com/lv-Vj6nhRHwMjd1C5umJIz62hF64jAnf8g-XwvNCnKo.jpg",
+        "edited": false,
+        "author_flair_css_class": "usericon-link-botw",
+        "author_flair_richtext": [
+        {
+        "a": ":link-botw:",
+        "u": "https://emoji.redditmedia.com/y72qtdd1g3941_t5_3h47q/link-botw",
+        "e": "emoji"
+        }
+        ],
+        "gildings": {
+        "gid_1": 4,
+        "gid_3": 1
+        },
+        "post_hint": "rich:video",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1616623260,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "youtube.com",
+        "allow_live_comments": true,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.youtube.com/watch?v=zj1zWrqjbIA",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": true,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+        "images": [
+        {
+        "source": {
+        "url": "https://external-preview.redd.it/vAftBMUviRTNRAmkkL77eKrzaBD0nlqGhtzCnQJCoBE.jpg?auto=webp&amp;s=e4e2e5f2a315c8c2b4716dbaea48b61e6ca53ed9",
+        "width": 480,
+        "height": 360
+        },
+        "resolutions": [
+        {
+        "url": "https://external-preview.redd.it/vAftBMUviRTNRAmkkL77eKrzaBD0nlqGhtzCnQJCoBE.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f5b772d1352e7142a7044a313349182222961483",
+        "width": 108,
+        "height": 81
+        },
+        {
+        "url": "https://external-preview.redd.it/vAftBMUviRTNRAmkkL77eKrzaBD0nlqGhtzCnQJCoBE.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0cc5d1150ae3f2ba6960f53e2151e0e42e676d19",
+        "width": 216,
+        "height": 162
+        },
+        {
+        "url": "https://external-preview.redd.it/vAftBMUviRTNRAmkkL77eKrzaBD0nlqGhtzCnQJCoBE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1af1326ce107e893cfce7fa0b55579d28a3b1e58",
+        "width": 320,
+        "height": 240
+        }
+        ],
+        "variants": {},
+        "id": "65FHGSgBC8vNgOznikTw2V-MAftO0_waTGIR2AYLNQw"
+        }
+        ],
+        "enabled": false
+        },
+        "all_awardings": [
+        {
+        "giver_coin_reward": null,
+        "subreddit_id": null,
+        "is_new": false,
+        "days_of_drip_extension": 31,
+        "coin_price": 1800,
+        "id": "gid_3",
+        "penny_donate": null,
+        "coin_reward": 0,
+        "icon_url": "https://www.redditstatic.com/gold/awards/icon/platinum_512.png",
+        "days_of_premium": 31,
+        "icon_height": 512,
+        "tiers_by_required_awardings": null,
+        "resized_icons": [
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/platinum_16.png",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/platinum_32.png",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/platinum_48.png",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/platinum_64.png",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/platinum_128.png",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_width": 512,
+        "static_icon_width": 512,
+        "start_date": null,
+        "is_enabled": true,
+        "awardings_required_to_grant_benefits": null,
+        "description": "Gives 700 Reddit Coins and a month of r/lounge access and ad-free browsing.",
+        "end_date": null,
+        "subreddit_coin_reward": 0,
+        "count": 1,
+        "static_icon_height": 512,
+        "name": "Platinum",
+        "resized_static_icons": [
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/platinum_16.png",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/platinum_32.png",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/platinum_48.png",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/platinum_64.png",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/platinum_128.png",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_format": null,
+        "award_sub_type": "GLOBAL",
+        "penny_price": null,
+        "award_type": "global",
+        "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/platinum_512.png"
+        },
+        {
+        "giver_coin_reward": null,
+        "subreddit_id": null,
+        "is_new": false,
+        "days_of_drip_extension": 0,
+        "coin_price": 150,
+        "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+        "penny_donate": null,
+        "coin_reward": 0,
+        "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+        "days_of_premium": 0,
+        "icon_height": 2048,
+        "tiers_by_required_awardings": null,
+        "resized_icons": [
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_width": 2048,
+        "static_icon_width": 2048,
+        "start_date": null,
+        "is_enabled": true,
+        "awardings_required_to_grant_benefits": null,
+        "description": "Thank you stranger. Shows the award.",
+        "end_date": null,
+        "subreddit_coin_reward": 0,
+        "count": 6,
+        "static_icon_height": 2048,
+        "name": "Helpful",
+        "resized_static_icons": [
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_format": null,
+        "award_sub_type": "GLOBAL",
+        "penny_price": null,
+        "award_type": "global",
+        "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png"
+        },
+        {
+        "giver_coin_reward": null,
+        "subreddit_id": null,
+        "is_new": false,
+        "days_of_drip_extension": 0,
+        "coin_price": 125,
+        "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+        "penny_donate": null,
+        "coin_reward": 0,
+        "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+        "days_of_premium": 0,
+        "icon_height": 2048,
+        "tiers_by_required_awardings": null,
+        "resized_icons": [
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_width": 2048,
+        "static_icon_width": 2048,
+        "start_date": null,
+        "is_enabled": true,
+        "awardings_required_to_grant_benefits": null,
+        "description": "When you come across a feel-good thing.",
+        "end_date": null,
+        "subreddit_coin_reward": 0,
+        "count": 5,
+        "static_icon_height": 2048,
+        "name": "Wholesome",
+        "resized_static_icons": [
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_format": null,
+        "award_sub_type": "GLOBAL",
+        "penny_price": null,
+        "award_type": "global",
+        "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png"
+        },
+        {
+        "giver_coin_reward": null,
+        "subreddit_id": null,
+        "is_new": false,
+        "days_of_drip_extension": 0,
+        "coin_price": 100,
+        "id": "gid_1",
+        "penny_donate": null,
+        "coin_reward": 0,
+        "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+        "days_of_premium": 0,
+        "icon_height": 512,
+        "tiers_by_required_awardings": null,
+        "resized_icons": [
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_width": 512,
+        "static_icon_width": 512,
+        "start_date": null,
+        "is_enabled": true,
+        "awardings_required_to_grant_benefits": null,
+        "description": "Shows the Silver Award... and that's it.",
+        "end_date": null,
+        "subreddit_coin_reward": 0,
+        "count": 4,
+        "static_icon_height": 512,
+        "name": "Silver",
+        "resized_static_icons": [
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_format": null,
+        "award_sub_type": "GLOBAL",
+        "penny_price": null,
+        "award_type": "global",
+        "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png"
+        },
+        {
+        "giver_coin_reward": 0,
+        "subreddit_id": null,
+        "is_new": false,
+        "days_of_drip_extension": 0,
+        "coin_price": 80,
+        "id": "award_8352bdff-3e03-4189-8a08-82501dd8f835",
+        "penny_donate": 0,
+        "coin_reward": 0,
+        "icon_url": "https://i.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png",
+        "days_of_premium": 0,
+        "icon_height": 2048,
+        "tiers_by_required_awardings": null,
+        "resized_icons": [
+        {
+        "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=73a23bf7f08b633508dedf457f2704c522b94a04",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=50f2f16e71d2929e3d7275060af3ad6b851dbfb1",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=ca487311563425e195699a4d7e4c57a98cbfde8b",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=7b4eedcffb1c09a826e7837532c52979760f1d2b",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=e4d5ab237eb71a9f02bb3bf9ad5ee43741918d6c",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_width": 2048,
+        "static_icon_width": 2048,
+        "start_date": null,
+        "is_enabled": true,
+        "awardings_required_to_grant_benefits": null,
+        "description": "Everything is better with a good hug",
+        "end_date": null,
+        "subreddit_coin_reward": 0,
+        "count": 6,
+        "static_icon_height": 2048,
+        "name": "Hugz",
+        "resized_static_icons": [
+        {
+        "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=16&amp;height=16&amp;auto=webp&amp;s=69997ace3ef4ffc099b81d774c2c8f1530602875",
+        "width": 16,
+        "height": 16
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=32&amp;height=32&amp;auto=webp&amp;s=e9519d1999ef9dce5c8a9f59369cb92f52d95319",
+        "width": 32,
+        "height": 32
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=48&amp;height=48&amp;auto=webp&amp;s=f076c6434fb2d2f9075991810fd845c40fa73fc6",
+        "width": 48,
+        "height": 48
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=64&amp;height=64&amp;auto=webp&amp;s=85527145e0c4b754306a30df29e584fd16187636",
+        "width": 64,
+        "height": 64
+        },
+        {
+        "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=128&amp;height=128&amp;auto=webp&amp;s=b8843cdf82c3b741d7af057c14076dcd2621e811",
+        "width": 128,
+        "height": 128
+        }
+        ],
+        "icon_format": "PNG",
+        "award_sub_type": "GLOBAL",
+        "penny_price": 0,
+        "award_type": "global",
+        "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png"
+        }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "a64aa430-985a-11e6-9740-0e00a029b1ba",
+        "can_gild": true,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":link-botw:",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_3h47q",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#e70012",
+        "id": "mc6fgd",
+        "is_robot_indexable": true,
+        "num_duplicates": 2,
+        "report_reasons": null,
+        "author": "Turbostrider27",
+        "discussion_type": null,
+        "num_comments": 607,
+        "send_replies": false,
+        "media": {
+        "oembed": {
+        "provider_url": "https://www.youtube.com/",
+        "title": "New Pokémon Snap – New Gameplay Today",
+        "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/zj1zWrqjbIA?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "thumbnail_width": 480,
+        "height": 200,
+        "width": 356,
+        "version": "1.0",
+        "author_name": "Game Informer",
+        "provider_name": "YouTube",
+        "thumbnail_url": "https://i.ytimg.com/vi/zj1zWrqjbIA/hqdefault.jpg",
+        "type": "video",
+        "thumbnail_height": 360,
+        "author_url": "https://www.youtube.com/c/gameinformer"
+        },
+        "type": "youtube.com"
+        },
+        "contest_mode": false,
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/NintendoSwitch/comments/mc6fgd/new_pokémon_snap_new_gameplay_today/",
+        "whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.youtube.com/watch?v=zj1zWrqjbIA",
+        "subreddit_subscribers": 2962554,
+        "created_utc": 1616594460,
+        "num_crossposts": 1,
+        "mod_reports": [],
+        "is_video": false
+        }
+        }
+        ],
+        "after": null,
+        "before": null
+        }
+    }
+]
