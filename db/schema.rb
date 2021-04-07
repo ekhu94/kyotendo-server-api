@@ -44,6 +44,7 @@ ActiveRecord::Schema.define(version: 2021_04_07_034209) do
     t.text "content_text"
     t.string "content_url"
     t.string "post_type"
+    t.integer "upvotes"
     t.bigint "user_id", null: false
     t.bigint "forum_id", null: false
     t.datetime "created_at", precision: 6, null: false
