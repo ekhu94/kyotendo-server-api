@@ -5,8 +5,8 @@ require 'json'
 def loadForums
     forums = ['Nintendo Switch', 'Zelda', 'Mario Kart', 'Pokemon', 'Game Deals']
     i = 0
-    while i < 6
-        Forum.create(name: forums[i])
+    while i < 5
+        Forum.create(name: forums[i], slug: forums[i].split(' ').join(''))
         i += 1
     end
 end

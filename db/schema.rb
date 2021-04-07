@@ -25,6 +25,7 @@ ActiveRecord::Schema.define(version: 2021_04_07_034209) do
 
   create_table "forums", force: :cascade do |t|
     t.string "name"
+    t.string "slug"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
