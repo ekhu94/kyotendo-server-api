@@ -32,7 +32,8 @@ ActiveRecord::Schema.define(version: 2021_04_06_053243) do
 
   create_table "posts", force: :cascade do |t|
     t.string "title"
-    t.text "content"
+    t.text "content_text"
+    t.string "content_url"
     t.string "post_type"
     t.bigint "user_id", null: false
     t.bigint "forum_id", null: false
