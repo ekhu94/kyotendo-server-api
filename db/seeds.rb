@@ -3,7 +3,7 @@ Forum.destroy_all
 require 'json'
 
 def loadForums
-    forums = ['Nintendo Switch', 'Zelda', 'Mario Kart', 'Pokemon', 'Game Deals']
+    forums = ['Nintendo Switch', 'Zelda', 'Mario Kart', 'Pokemon', 'Animal Crossing']
     i = 0
     while i < 5
         Forum.create(name: forums[i], slug: forums[i].split(' ').join(''))
@@ -41,6 +41,7 @@ def loadNintendoSwitchPosts
         Post.create(
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            thumbnail: i['data']['children'][0]['data']['thumbnail'],
             post_type: 'image',
             upvotes: rand(0..200),
             user: User.find(user_id),
@@ -59,6 +60,7 @@ def loadNintendoSwitchPosts
         Post.create(
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            thumbnail: i['data']['children'][0]['data']['thumbnail'],
             post_type: 'video',
             upvotes: rand(0..200),
             user: User.find(user_id),
@@ -97,6 +99,7 @@ def loadZeldaPosts
         Post.create(
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            thumbnail: i['data']['children'][0]['data']['thumbnail'],
             post_type: 'image',
             upvotes: rand(0..200),
             user: User.find(user_id),
@@ -115,6 +118,7 @@ def loadZeldaPosts
         Post.create(
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            thumbnail: i['data']['children'][0]['data']['thumbnail'],
             post_type: 'video',
             upvotes: rand(0..200),
             user: User.find(user_id),
@@ -135,6 +139,7 @@ def loadMarioKartPosts
         Post.create(
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            thumbnail: i['data']['children'][0]['data']['thumbnail'],
             post_type: 'image',
             upvotes: rand(0..200),
             user: User.find(user_id),
@@ -155,6 +160,7 @@ def loadPokemonPosts
         Post.create(
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            thumbnail: i['data']['children'][0]['data']['thumbnail'],
             post_type: 'image',
             upvotes: rand(0..200),
             user: User.find(user_id),

@@ -4,6 +4,7 @@ class CreatePosts < ActiveRecord::Migration[6.1]
       t.string :title
       t.text :content_text
       t.string :content_url
+      t.string :thumbnail
       t.string :post_type
       t.integer :upvotes
       t.references :user, null: false, foreign_key: true
