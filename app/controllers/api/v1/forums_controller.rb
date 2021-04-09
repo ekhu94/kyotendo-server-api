@@ -20,6 +20,6 @@ class Api::V1::ForumsController < ApplicationController
     private
 
     def forum_params
-        params.require(:forums).permit(:name, :slug)
+        params.require(:forum).permit(:name, :slug)
     end
 end

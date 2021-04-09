@@ -20,6 +20,6 @@ class Api::V1::ForumsController < ApplicationController
     private
 
     def game_params
-        params.require(:games).permit(:name, :rating, :img_url, :release_date)
+        params.require(:game).permit(:name, :rating, :img_url, :release_date)
     end
 end

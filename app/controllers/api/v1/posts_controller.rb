@@ -17,9 +17,15 @@ class Api::V1::PostsController < ApplicationController
         render json: post
     end
 
+    def update
+        post = Post.find(params[:id])
+        post.update(post_params)
+        render json: post
+    end
+
     private
 
     def post_params
-        params.require(:posts).permit(:title, :content_text, :content_url, :thumbnail, :post_type, :upvotes, :user_id, :forum_id)
+        params.require(:post).permit(:title, :content_text, :content_url, :thumbnail, :post_type, :upvotes, :user_id, :forum_id)
     end
 end
