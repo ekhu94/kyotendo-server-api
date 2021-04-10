@@ -5,7 +5,7 @@ require 'json'
 def loadForums
     forums = ['Nintendo Switch', 'Zelda', 'Mario Kart', 'Pokemon', 'Animal Crossing', 'Super Smash Bros']
     i = 0
-    while i < 5
+    while i < 6
         Forum.create(name: forums[i], slug: forums[i].split(' ').join(''))
         i += 1
     end
@@ -284,6 +284,26 @@ def loadAnimalCrossingPosts
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
             post_type: 'video',
+            upvotes: rand(0..400),
+            user: User.find(user_id),
+            forum: forum
+        )
+    end
+end
+
+def loadSmashBrosPosts
+    #* Discussion Posts
+    disc_file = open('./db/db_smash_bros_disc.json')
+    disc_content = disc_file.read
+    disc_json = JSON.parse(disc_content)
+
+    disc_json.each do |i|
+        user_id = rand(User.first.id..User.last.id)
+        forum = Forum.find_by(name: 'Super Smash Bros')
+        Post.create(
+            title: i['data']['children'][0]['data']['title'],
+            content_text: i['data']['children'][0]['data']['selftext'],
+            post_type: 'discussion',
             upvotes: rand(0..400),
             user: User.find(user_id),
             forum: forum
