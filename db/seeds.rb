@@ -235,6 +235,28 @@ def loadPokemonPosts
     end
 end
 
+def loadAnimalCrossingPosts
+    #* Discussion Posts
+    disc_file = open('./db/db_animal_crossing_disc.json')
+    disc_content = disc_file.read
+    disc_json = JSON.parse(disc_content)
+
+    disc_json.each do |i|
+        user_id = rand(User.first.id..User.last.id)
+        forum = Forum.find_by(name: 'Animal Crossing')
+        Post.create(
+            title: i['data']['children'][0]['data']['title'],
+            content_text: i['data']['children'][0]['data']['selftext'],
+            post_type: 'discussion',
+            upvotes: rand(0..400),
+            user: User.find(user_id),
+            forum: forum
+        )
+    end
+
+    
+end
+
 loadForums
 loadNintendoSwitchPosts
 loadZeldaPosts
