@@ -254,6 +254,24 @@ def loadAnimalCrossingPosts
         )
     end
 
+    #* Image Posts
+    img_file = open('./db/db_animal_crossing_img.json')
+    img_content = img_file.read
+    img_json = JSON.parse(img_content)
+
+    img_json.each do |i|
+        user_id = rand(User.first.id..User.last.id)
+        forum = Forum.find_by(name: 'Animal Crossing')
+        Post.create(
+            title: i['data']['children'][0]['data']['title'],
+            content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            post_type: 'image',
+            upvotes: rand(0..400),
+            user: User.find(user_id),
+            forum: forum
+        )
+    end
+
     
 end
 
