@@ -24,7 +24,7 @@ def loadNintendoSwitchPosts
             title: i['data']['children'][0]['data']['title'],
             content_text: i['data']['children'][0]['data']['selftext'],
             post_type: 'discussion',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -42,7 +42,7 @@ def loadNintendoSwitchPosts
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
             post_type: 'image',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -60,7 +60,7 @@ def loadNintendoSwitchPosts
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
             post_type: 'video',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -80,7 +80,7 @@ def loadZeldaPosts
             title: i['data']['children'][0]['data']['title'],
             content_text: i['data']['children'][0]['data']['selftext'],
             post_type: 'discussion',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -98,7 +98,7 @@ def loadZeldaPosts
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
             post_type: 'image',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -116,7 +116,7 @@ def loadZeldaPosts
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
             post_type: 'video',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -136,7 +136,7 @@ def loadMarioKartPosts
             title: i['data']['children'][0]['data']['title'],
             content_text: i['data']['children'][0]['data']['selftext'],
             post_type: 'discussion',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -154,7 +154,7 @@ def loadMarioKartPosts
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
             post_type: 'image',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -172,7 +172,7 @@ def loadMarioKartPosts
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
             post_type: 'video',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -192,7 +192,7 @@ def loadPokemonPosts
             title: i['data']['children'][0]['data']['title'],
             content_text: i['data']['children'][0]['data']['selftext'],
             post_type: 'discussion',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -210,7 +210,7 @@ def loadPokemonPosts
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
             post_type: 'image',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -228,7 +228,7 @@ def loadPokemonPosts
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
             post_type: 'video',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -248,7 +248,7 @@ def loadAnimalCrossingPosts
             title: i['data']['children'][0]['data']['title'],
             content_text: i['data']['children'][0]['data']['selftext'],
             post_type: 'discussion',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -266,7 +266,7 @@ def loadAnimalCrossingPosts
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
             post_type: 'image',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -284,7 +284,7 @@ def loadAnimalCrossingPosts
             title: i['data']['children'][0]['data']['title'],
             content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
             post_type: 'video',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
@@ -304,7 +304,25 @@ def loadSmashBrosPosts
             title: i['data']['children'][0]['data']['title'],
             content_text: i['data']['children'][0]['data']['selftext'],
             post_type: 'discussion',
-            upvotes: rand(0..400),
+            upvotes: rand(0..500),
+            user: User.find(user_id),
+            forum: forum
+        )
+    end
+
+    #* Image Posts
+    img_file = open('./db/db_smash_bros_img.json')
+    img_content = img_file.read
+    img_json = JSON.parse(img_content)
+
+    img_json.each do |i|
+        user_id = rand(User.first.id..User.last.id)
+        forum = Forum.find_by(name: 'Super Smash Bros')
+        Post.create(
+            title: i['data']['children'][0]['data']['title'],
+            content_url: i['data']['children'][0]['data']['url_overridden_by_dest'],
+            post_type: 'image',
+            upvotes: rand(0..500),
             user: User.find(user_id),
             forum: forum
         )
