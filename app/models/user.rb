@@ -1,6 +1,7 @@
 class User < ApplicationRecord
     has_many :posts
     has_many :forums, through: :posts
+    has_many :comments
     has_many :videos
     has_many :games, through: :videos
     has_secure_password

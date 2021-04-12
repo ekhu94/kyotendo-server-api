@@ -355,7 +355,8 @@ def loadComments
     i = 0
     while i < comments_collection.length
         post_id = rand(Post.first.id..Post.last.id)
-        Comment.create(content: comments_collection[i], post_id: post_id)
+        user_id = rand(User.first.id..User.last.id)
+        Comment.create(content: comments_collection[i], post_id: post_id, user_id: user_id)
         i += 1
     end
 end
