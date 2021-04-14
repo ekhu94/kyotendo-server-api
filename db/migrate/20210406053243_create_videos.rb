@@ -4,7 +4,7 @@ class CreateVideos < ActiveRecord::Migration[6.1]
       t.string :title
       t.string :description
       t.string :video_url
-      t.integer :views
+      t.string :thumbnail
       t.references :user, null: false, foreign_key: true
       t.references :game, null: false, foreign_key: true
 

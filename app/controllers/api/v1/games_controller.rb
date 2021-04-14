@@ -1,4 +1,4 @@
-class Api::V1::ForumsController < ApplicationController
+class Api::V1::GamesController < ApplicationController
     #! skipping just for testing purposes, please delete after
     skip_before_action :authorized
 

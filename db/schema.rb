@@ -67,7 +67,7 @@ ActiveRecord::Schema.define(version: 2021_04_07_034209) do
     t.string "title"
     t.string "description"
     t.string "video_url"
-    t.integer "views"
+    t.string "thumbnail"
     t.bigint "user_id", null: false
     t.bigint "game_id", null: false
     t.datetime "created_at", precision: 6, null: false
