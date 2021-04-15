@@ -3,7 +3,7 @@ class ApplicationController < ActionController::API
     before_action :authorized
 
     def encode_token(payload)
-        JWT.encode(payload, 'my_s3cr3t')
+        JWT.encode(payload, ENV['jwt_token_key'])
     end
 
     def auth_header

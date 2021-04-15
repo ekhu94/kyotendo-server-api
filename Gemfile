@@ -43,6 +43,6 @@ gem "jwt", "~> 2.2"
 
 gem "active_model_serializers", "~> 0.10.12"
 
-gem "faker", "~> 2.17"
+gem "figaro"
 
 gem "validates_email_format_of", "~> 1.6"
