@@ -17,6 +17,12 @@ class Api::V1::GamesController < ApplicationController
         render json: game
     end
 
+    def destroy
+        game = Game.find_by(id: params[:id])
+        game.destroy
+        render json: { message: 'Game Removed.' }
+    end
+
     private
 
     def game_params

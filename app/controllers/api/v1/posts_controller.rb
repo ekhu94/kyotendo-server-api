@@ -7,6 +7,11 @@ class Api::V1::PostsController < ApplicationController
         render json: posts
     end
 
+    def home
+        posts = Post.order(created_at: :desc).limit(30).offset(0)
+        render json: posts
+    end
+
     def show
         post = Post.find_by(id: params[:id])
         render json: post
