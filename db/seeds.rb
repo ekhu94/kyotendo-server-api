@@ -1,3 +1,5 @@
+Video.destroy_all
+Game.destroy_all
 Comment.destroy_all
 Post.destroy_all
 Forum.destroy_all

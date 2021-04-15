@@ -36,6 +36,7 @@ ActiveRecord::Schema.define(version: 2021_04_07_034209) do
     t.string "name"
     t.integer "rating"
     t.string "img_url"
+    t.string "slug"
     t.date "release_date"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
