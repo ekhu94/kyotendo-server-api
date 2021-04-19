@@ -7,8 +7,7 @@
 
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    CORS_ORIGINS = 'localhost:3000 kyotendo.herokuapp.com'
-    origins CORS_ORIGINS.split(" ").map { |e| "'#{e.strip}'" }.join(", ").tr('"', "")
+    origins 'kyotendo.herokuapp.com'
 
     resource '*',
       headers: :any,
