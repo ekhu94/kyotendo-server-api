@@ -14,7 +14,14 @@ Rails.application.config.middleware.insert_before 0, Rack::Cors do
       methods: [:get, :post, :put, :patch, :delete, :options, :head]
   end
   allow do
-    origins 'api.rawg.io'
+    origins 'https://api.rawg.io'
+
+    resource '*',
+      headers: :any,
+      methods: [:get, :post, :put, :patch, :delete, :options, :head]
+  end
+  allow do
+    origins 'googleapis.com'
 
     resource '*',
       headers: :any,
