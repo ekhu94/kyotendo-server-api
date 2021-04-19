@@ -7,7 +7,7 @@
 
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins Rails.application.credentials[Rails.env.to_sym][:allowed_origins]
+    origins 'localhost:3000', 'kyotendo.herokuapp.com'
 
     resource '*',
       headers: :any,
