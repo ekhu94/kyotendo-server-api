@@ -7,21 +7,7 @@
 
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins 'kyotendo.herokuapp.com'
-
-    resource '*',
-      headers: :any,
-      methods: [:get, :post, :put, :patch, :delete, :options, :head]
-  end
-  allow do
-    origins 'https://api.rawg.io'
-
-    resource '*',
-      headers: :any,
-      methods: [:get, :post, :put, :patch, :delete, :options, :head]
-  end
-  allow do
-    origins 'googleapis.com'
+    origins Rails.application.credentials[Rails.env.to_sym][:allowed_origins]
 
     resource '*',
       headers: :any,
