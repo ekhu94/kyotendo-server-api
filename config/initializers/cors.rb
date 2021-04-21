@@ -7,7 +7,7 @@
 
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins 'kyotendo.herokuapp.com'
+    origins 'kyotendo.netlify.app'
 
     resource '*',
       headers: :any,
